@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTestLogger", "SpeedTestLogger\SpeedTestLogger.csproj", "{529FD879-309B-4A7F-B20D-8F3281F65685}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A92CA90-32CF-4361-8395-78912E8C6EFA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		Analyzers.ruleset = Analyzers.ruleset
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		LICENSE = LICENSE
+		README.md = README.md
+		SpeedTestLogger.sln.DotSettings = SpeedTestLogger.sln.DotSettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529FD879-309B-4A7F-B20D-8F3281F65685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529FD879-309B-4A7F-B20D-8F3281F65685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529FD879-309B-4A7F-B20D-8F3281F65685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529FD879-309B-4A7F-B20D-8F3281F65685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
