@@ -9,8 +9,8 @@ internal sealed class Entity
     public DateTime Timestamp { get; set; }
 
     [Column]
-    public int Download { get; set; } = default!;
+    public int Download { get; set; }
 
     [Column]
-    public int Upload { get; set; } = default!;
+    public int Upload { get; set; }
 }
